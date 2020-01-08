@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1578445970 source:c:\users\mutud\desktop\poo_tema3\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<tuple>
+	<fstream>
+	<exception>
+
